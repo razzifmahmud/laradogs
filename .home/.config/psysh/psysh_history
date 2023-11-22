@@ -1,0 +1,5 @@
+_HiStOrY_V2_
+DB::select("SELECT\040*\040FROM\040CATS;")
+Schema::getColumnListing('cats');
+DB::select("SELECT\040*\040FROM\040CATS;")
+DB::select("SELECT\040*\040FROM\040USERS;")
